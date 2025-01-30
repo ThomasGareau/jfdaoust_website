@@ -1,1 +1,1 @@
-<p>Welcome to my GitHub page! I am a PhD student at <strong>Cornell University's Department of Government</strong>.
+<p>Welcome to my GitHub page! I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
