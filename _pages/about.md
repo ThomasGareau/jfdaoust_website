@@ -26,7 +26,7 @@ Media: I have been interviewed by different news organizations such as the New Y
 
 Feel free to contact me at **JF.Daoust@USherbrooke.ca**.
 
-I’m also on Twitter: @[jf_daoust](https://twitter.com/jf_daoust)
+I’m also on Twitter: [@jf_daoust](https://twitter.com/jf_daoust)
 
 
 ---
@@ -49,4 +49,4 @@ Médias : j’ai été interviewé par différentes organisations de nouvelles c
 
 N'hésitez pas à me contacter au **JF.Daoust@USherbrooke.ca**.
 
-Je suis aussi sur X (Twitter) : @[jf_daoust](https://twitter.com/jf_daoust)
+Je suis aussi sur X (Twitter) : [@jf_daoust](https://twitter.com/jf_daoust)
