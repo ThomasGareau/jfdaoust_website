@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /talks/    
+  - title: "Data & Resources"
+    url: /data_resources/    
 
   - title: "Teaching/Enseignement"
     url: /teaching/ 
