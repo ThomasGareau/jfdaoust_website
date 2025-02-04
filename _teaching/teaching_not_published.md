@@ -6,7 +6,9 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
----
+--
+
+SHOULD BE RENAMED TO 2025-spring-teaching-1.md (or similar format) if you want this featured on the website.
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
