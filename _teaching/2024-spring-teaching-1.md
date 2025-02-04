@@ -2,13 +2,14 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2024-01-01
 location: "City, Country"
---
+---
 
-SHOULD BE RENAMED TO 2025-spring-teaching-1.md (or similar format) if you want this featured on the website.
+Add "permalink: /teaching/2024-spring-teaching-1" if you want this added to the website.
+
+
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
