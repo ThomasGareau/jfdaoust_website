@@ -2,13 +2,14 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "Teaching/Enseignement"
+    url: /teaching/
+    
 
   - title: "Data & Resources"
     url: /data_resources/    
 
-  - title: "Teaching/Enseignement"
-    url: /teaching/ 
-    
   - title: "Blog"
     url: /year-archive/
     
