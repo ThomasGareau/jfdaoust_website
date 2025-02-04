@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/ 
     
-    - title: "Blog"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
