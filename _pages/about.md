@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+(Le français suit)
+
 Welcome!
 
 I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
@@ -27,8 +29,7 @@ Feel free to contact me at **JF.Daoust@USherbrooke.ca**.
 I’m also on Twitter: @[jf_daoust](https://twitter.com/jf_daoust)
 
 
-
----
+======
 
 
 

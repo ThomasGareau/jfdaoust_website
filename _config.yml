@@ -22,9 +22,9 @@ repository               : "jfdaoust/jfdaoust_website.io" # GitHub username/repo
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Thomas Gareau-Paquette"
+  name             : "Jean-François Daoust"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Ph.D. student at Cornell University's Department of Government, focusing on comparative political behaviour in affluent democracies."
+  bio              : "Welcome to my website! I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke."
   location         : "Sherbrooke, QC"
   employer         : "Université de Sherbrooke"
   uri              : # URL

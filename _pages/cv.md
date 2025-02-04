@@ -12,7 +12,7 @@ redirect_from:
 
 You can find a PDF version of my CV [here](http://jfdaoust.com/files/JFD_CV_en.pdf).
 
----
+======
 
 
 Cliquez [ICI](http://jfdaoust.com/files/JFD_CV_fr.pdf) pour consulter mon CV.
