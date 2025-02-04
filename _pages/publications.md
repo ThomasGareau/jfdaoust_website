@@ -9,6 +9,8 @@ I have published more than 50 peer-reviewed research.
 
 My [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) page might provide a better update (or not). 
 
+You can find a PDF version of my CV [here](http://jfdaoust.com/files/JFD_CV_en.pdf).
+
 I have a further dozen work-in-progress that are either revised and resubmitted, under review, working papers, or in the field for data collection. Some are listed in my CV under the work-in-progress section.
 
 Feel free to email me if you have questions or comments regarding these publications or work-in-progress.
@@ -18,7 +20,7 @@ Feel free to email me if you have questions or comments regarding these publicat
 
 J’ai publié plus de 50 recherches évaluées par les pairs.
 
-Cliquez ICI pour consulter mon CV.
+Mon CV est disponible [ici](http://jfdaoust.com/files/JFD_CV_fr.pdf).
 
 Ma page [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) avec mes recherches pourrait mieux vous éclairer (ou pas).
 
