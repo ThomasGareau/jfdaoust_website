@@ -1,5 +1,7 @@
 {% include base_path %}
-<div class="pagefooter-follow">
+
+{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+<div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -16,4 +18,5 @@
   </ul>
 </div>
 {% endif %}
-<div class="pagefooter-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
