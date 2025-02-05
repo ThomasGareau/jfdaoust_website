@@ -24,25 +24,25 @@ author:
   avatar           : "profile.png"
   name             : "Jean-François Daoust"
   pronouns         : # example: "she/her"  
-  bio              : "Welcome to my website! I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke."
-  location         : "Sherbrooke, QC"
-  employer         : "Université de Sherbrooke"
+  bio              : "I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke."
+  location         : # "Sherbrooke, QC"
+  employer         : # "Université de Sherbrooke"
   uri              : # URL
   email            : "JF.Daoust@USherbrooke.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "ttps://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2736-7430"
+  orcid            : #"https://orcid.org/0000-0002-2736-7430"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Jean-Francois-Daoust"
+  researchgate     : #"https://www.researchgate.net/profile/Jean-Francois-Daoust"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jfdaoust"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
