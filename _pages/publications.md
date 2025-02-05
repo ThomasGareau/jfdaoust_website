@@ -17,6 +17,8 @@ Feel free to email me if you have questions or comments regarding these publicat
 
 
 ---
+---
+---
 
 J’ai publié plus de 50 recherches évaluées par les pairs.
 
