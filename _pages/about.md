@@ -11,6 +11,8 @@ redirect_from:
 
 Welcome!
 
+<hr style="border: 0; border-top: 3px solid #333; margin: 2rem 0;">
+
 I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
