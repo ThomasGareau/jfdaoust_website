@@ -29,10 +29,7 @@ Feel free to contact me at **JF.Daoust@USherbrooke.ca**.
 I’m also on Twitter: [@jf_daoust](https://twitter.com/jf_daoust)
 
 
----
----
----
-
+<hr style="border: 0; border-top: 3px solid #333; margin: 2rem 0;">
 
 Bienvenue!
 
