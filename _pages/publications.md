@@ -16,9 +16,8 @@ I have a further dozen work-in-progress that are either revised and resubmitted,
 Feel free to email me if you have questions or comments regarding these publications or work-in-progress.
 
 
----
----
----
+<hr style="border: 0; border-top: 3px solid #333; margin: 2rem 0;">
+
 
 J’ai publié plus de 50 recherches évaluées par les pairs.
 

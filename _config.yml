@@ -47,7 +47,10 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  
+  linkedin         : jean-françois-daoust-phd-124a1343
   bluesky          : jfdaoust.bsky.social
+  twitter          : jf_daoust
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +59,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : jean-françois-daoust-phd-124a1343
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +66,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : jf_daoust
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
