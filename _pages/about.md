@@ -7,11 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .page {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+  
+  .page__content {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  
+  @media (min-width: 80em) {
+    .page {
+      padding-right: 2rem !important;
+      padding-left: 2rem !important;
+    }
+  }
+</style>
+
 (Le français suit)
 
 Welcome!
-
-<hr style="border: 0; border-top: 3px solid #333; margin: 2rem 0;">
 
 I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
 
