@@ -37,7 +37,7 @@ I am a Faculty member at the School of Applied Politics of the Université de Sh
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
 
-I have published more than 50 peer-reviewed research, including work in the Journal of Politics and Elections and Satisfaction with Democracy (2023), a recent book published at Cambridge University Press.
+I have published more than 50 peer-reviewed research, including work in the Journal of Politics and [*Election and Satisfaction with Democracy*](https://www.cambridge.org/core/elements/abs/elections-and-satisfaction-with-democracy/BFB87CAFF449D9BF89D116C298F9ED33) (Cambridge University Press, 2023), a recent book published at Cambridge University Press.
 
 My [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) page might provide a better update (or not). 
 
@@ -59,7 +59,7 @@ Je suis professeur à l’École de politique appliquée de l’Université de S
 
 Mes intérêts de recherche incluent les comportement politiques comparés, l’opinion publique, la politique canadienne et l’inférence causale.
 
-J’ai co-écrit trois livres, le plus récent, [*Election and Sa tisfaction with Democracy*](https://www.cambridge.org/core/elements/abs/elections-and-satisfaction-with-democracy/BFB87CAFF449D9BF89D116C298F9ED33) (Cambridge University Press) et publié plus de 50 recherches articles scientifiques (par exemple, au Journal of Politics).
+J’ai co-écrit trois livres, le plus récent, [*Election and Satisfaction with Democracy*](https://www.cambridge.org/core/elements/abs/elections-and-satisfaction-with-democracy/BFB87CAFF449D9BF89D116C298F9ED33) (Cambridge University Press, 2023) et publié plus de 50 recherches articles scientifiques (par exemple, au Journal of Politics).
 
 Ma page de publication [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) pourrait mieux vous éclairer (ou pas).
 
