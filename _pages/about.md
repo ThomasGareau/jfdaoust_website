@@ -29,7 +29,7 @@ redirect_from:
   }
 </style>
 
-(Le français suit)
+[Le français suit]
 
 Welcome!
 
