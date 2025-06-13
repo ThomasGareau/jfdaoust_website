@@ -33,7 +33,7 @@ redirect_from:
 
 Welcome!
 
-I am a Faculty member at the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
+I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
 
@@ -55,7 +55,7 @@ I’m also on Twitter: [@jf_daoust](https://twitter.com/jf_daoust)
 
 Bienvenue!
 
-Je suis professeur à l’École de politique appliquée de l’Université de Sherbrooke et professeur honoraire à l’University of Edinburgh où j’occupais un poste de professeur (menant à la permanence) de 2000 à 2022.
+Je suis professeur agrégé à l’École de politique appliquée de l’Université de Sherbrooke et professeur honoraire à l’University of Edinburgh où j’occupais un poste de professeur (menant à la permanence) de 2000 à 2022.
 
 Mes intérêts de recherche incluent les comportement politiques comparés, l’opinion publique, la politique canadienne et l’inférence causale.
 
