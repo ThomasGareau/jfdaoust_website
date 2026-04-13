@@ -1,7 +1,7 @@
 ---
 title: 'Blogue – opération citoyenneté'
-date: 2025-11-25
-permalink: /posts/2025/11/blogue-operation-citoyennete/
+date: 2026-04-13
+permalink: /posts/2026/04/blogue-operation-citoyennete/
 tags:
   - Référendum
   - Citoyenneté
