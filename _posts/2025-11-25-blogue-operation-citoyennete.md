@@ -1,3 +1,12 @@
+---
+title: 'Blogue – opération citoyenneté'
+date: 2025-11-25
+permalink: /posts/2025/11/blogue-operation-citoyennete/
+tags:
+  - Référendum
+  - Citoyenneté
+---
+
 # Blogue – opération citoyenneté
 
 En novembre 2025, Sergio Marchi, ancien ministre de la Citoyenneté et de l’Immigration (1994 à 1996), [révèle](https://www.journaldemontreal.com/2025/11/25/jean-chretien-avait-donne-linstruction-daccelerer-les-demandes-de-citoyennete-avant-le-referendum-de-1995) qu’il aurait accéléré, à la demande de Jean Chrétien, le traitement des demandes pour l’obtention de la citoyenneté canadienne provenant du Québec, en amont du référendum de 1995. Cette manœuvre, surnommée « Opération citoyenneté », visait à octroyer le droit de vote au référendum au maximum de personnes immigrantes, un groupe reconnu comme massivement opposé à l’indépendance du Québec. Soupçonnée dès 1996, une manipulation politique du processus de naturalisation avait toujours été démentie.
@@ -10,7 +19,7 @@ J’ai utilisé les chiffres du nombre de personnes résidant au Québec qui ont
 
 Le Graphique 1 ci-dessous illustre les nouvelles citoyennetés accordées aux personnes résidant au Québec de 1984 à 1996.
 
-![Graphique 1. Nombre de personnes naturalisées, au Québec, par année (1984-1996)](jfdaoust_website/images/Graphique1.png)
+![Graphique 1. Nombre de personnes naturalisées, au Québec, par année (1984-1996)](/images/Graphique1.png)
 
 *Graphique 1. Nombre de personnes naturalisées, au Québec, par année (1984-1996)*
 
@@ -55,7 +64,7 @@ Dans le scénario avec le plus petit écart[^2], le OUI obtient 48,98 % des voix
 
 Pour rappel, en 1995, le OUI obtient 49,42 % des voix contre 50,58 % pour le NON. L’écart était de 54 288 voix.
 
-![Graphique 2. Distribution des pourcentages dans chaque camp, 36 scénarios](jfdaoust_website/images/Graphique2.png)
+![Graphique 2. Distribution des pourcentages dans chaque camp, 36 scénarios](/images/Graphique2.png)
 
 *Graphique 2. Distribution des pourcentages dans chaque camp, 36 scénarios*
 
