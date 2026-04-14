@@ -1,5 +1,5 @@
 ---
-title: 'Blogue – opération citoyenneté'
+title: "L'opération citoyenneté durant le référendum de 1995"
 date: 2026-04-13
 permalink: /posts/2026/04/blogue-operation-citoyennete/
 tags:
