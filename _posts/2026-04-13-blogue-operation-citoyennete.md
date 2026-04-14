@@ -58,7 +58,7 @@ Comme nous avons trois paramètres, qui prennent respectivement 3, 3, et 4 valeu
 
 Chaque scénario est illustré dans le graphique 2, où le pourcentage qui aurait été obtenu par le NON est représenté par un cercle rouge et celui par le OUI par un cercle bleu.
 
-Dans le scénario avec le plus petit écart[^2], le OUI obtient 48,98 % des voix (2 305 455) et le NON obtient 50,02 % des voix (2 307 459). Il y a un écart de seulement 2 004 personnes entre les deux camps. À l’inverse, dans le scénario avec le plus grand écart[^3], le OUI obtient 49,53 % des voix (2 304 739) et le NON obtient 50,47 % des voix (2 348 165). Il y a un écart de 43 426 personnes.
+Dans le scénario avec le plus petit écart[^2], le OUI obtient 49,98 % des voix (2 305 455) et le NON obtient 50,02 % des voix (2 307 459). Il y a un écart de seulement 2 004 personnes entre les deux camps. À l’inverse, dans le scénario avec le plus grand écart[^3], le OUI obtient 49,53 % des voix (2 304 739) et le NON obtient 50,47 % des voix (2 348 165). Il y a un écart de 43 426 personnes.
 
 Pour rappel, en 1995, le OUI obtient 49,42 % des voix contre 50,58 % pour le NON. L’écart était de 54 288 voix.
 
