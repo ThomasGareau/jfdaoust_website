@@ -7,8 +7,6 @@ tags:
   - Citoyenneté
 ---
 
-# Blogue – opération citoyenneté
-
 En novembre 2025, Sergio Marchi, ancien ministre de la Citoyenneté et de l’Immigration (1994 à 1996), [révèle](https://www.journaldemontreal.com/2025/11/25/jean-chretien-avait-donne-linstruction-daccelerer-les-demandes-de-citoyennete-avant-le-referendum-de-1995) qu’il aurait accéléré, à la demande de Jean Chrétien, le traitement des demandes pour l’obtention de la citoyenneté canadienne provenant du Québec, en amont du référendum de 1995. Cette manœuvre, surnommée « Opération citoyenneté », visait à octroyer le droit de vote au référendum au maximum de personnes immigrantes, un groupe reconnu comme massivement opposé à l’indépendance du Québec. Soupçonnée dès 1996, une manipulation politique du processus de naturalisation avait toujours été démentie.
 
 Il est très difficile d’estimer l’effet de cette manœuvre sur les résultats du référendum de 1995, mais on peut faire certaines estimations. J’en parle dans le documentaire *1995 – Espoirs et trahisons*, réalisé par Flavie Payette-Renouf et je détaille les chiffres dans ce texte.
