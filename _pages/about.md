@@ -33,7 +33,7 @@ redirect_from:
 
 Welcome!
 
-I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and will hold the Fulbright Canada Distinguished Visiting Professorship at Yale University in 2026-2027. 
+I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada). 
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
 
