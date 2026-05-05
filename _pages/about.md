@@ -33,15 +33,15 @@ redirect_from:
 
 Welcome!
 
-I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and honorary Lecturer at the University of Edinburgh where I was a tenure-track Faculty member (2020-2022).
+I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada), and will hold the Fulbright Canada Distinguished Visiting Professorship at Yale University in 2026-2027. 
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
 
-I have published more than 50 peer-reviewed research, including work in the Journal of Politics and [*Election and Satisfaction with Democracy*](https://www.cambridge.org/core/elements/abs/elections-and-satisfaction-with-democracy/BFB87CAFF449D9BF89D116C298F9ED33) (Cambridge University Press, 2023), a recent book published at Cambridge University Press.
+I have published more than 60 peer-reviewed research, including work in the Journal of Politics, Public Opinion Quarterly, and [*Election and Satisfaction with Democracy*](https://www.cambridge.org/core/elements/abs/elections-and-satisfaction-with-democracy/BFB87CAFF449D9BF89D116C298F9ED33) (Cambridge University Press, 2023) published at Cambridge University Press.
 
 My [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) page might provide a better update (or not). 
 
-Previous affiliations include University of Edinburgh (Assistant Professor, tenure-track) McGill University (postdoc) and Harvard University’s Institute for Quantitative Social Science as a visiting scholar (invited scholar).
+Previous affiliations include University of Edinburgh (Assistant Professor, tenure-track, 2020-2022) McGill University (postdoc, 2018-2019) and Harvard University’s Institute for Quantitative Social Science (invited scholar, Winter 2018).
 
 Media: I have been interviewed by different news organizations such as the New York Times, the BBC, CBC/Radio-Canada, or the New Zealand Herald. Feel free to email me. 
 
