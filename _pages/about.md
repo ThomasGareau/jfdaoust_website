@@ -34,6 +34,7 @@ redirect_from:
 Welcome!
 
 I am Associate Professor the School of Applied Politics of the Université de Sherbrooke (Québec, Canada). 
+In 2026-2027, I will hold a Fulbright Distinguished Visiting Professorship at Yale University.
 
 My research interests include comparative political behaviour, public opinion, Canadian politics and causal inference. 
 
@@ -55,7 +56,8 @@ I’m also on Twitter: [@jf_daoust](https://twitter.com/jf_daoust)
 
 Bienvenue!
 
-Je suis professeur agrégé à l’École de politique appliquée de l’Université de Sherbrooke et professeur honoraire à l’University of Edinburgh où j’occupais un poste de professeur (menant à la permanence) de 2000 à 2022.
+Je suis professeur agrégé à l’École de politique appliquée de l’Université de Sherbrooke. 
+En 2026-2027, je serai également professeur invité à l'Université Yale (Fulbright Distinguished Visiting Professorship).
 
 Mes intérêts de recherche incluent les comportement politiques comparés, l’opinion publique, la politique canadienne et l’inférence causale.
 
@@ -63,7 +65,7 @@ J’ai co-écrit trois livres, le plus récent, [*Election and Satisfaction with
 
 Ma page de publication [Google Scholar](https://scholar.google.ca/citations?user=d7040KUAAAAJ&hl=en) pourrait mieux vous éclairer (ou pas).
 
-Mes affiliations précédentes incluent également McGill (chercheur postdoctoral) et l’Institute for Quantitative Social Science de Harvard comme chercheur invité.
+Mes affiliations précédentes incluent l’Université d'Edimbourg où j’occupais un poste de professeur (menant à la permanence) de 2000 à 2022, McGill (chercheur postdoctoral) et l’Institute for Quantitative Social Science de Harvard comme chercheur invité.
 
 Médias : j’ai été interviewé par différentes organisations de nouvelles comme The New York Times, la BBC, CBC/Radio-Canada et le New Zealand Herald. N’hésitez pas à me contacter par courriel pour toute demande ou question.
 
